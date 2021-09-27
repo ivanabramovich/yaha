@@ -1,0 +1,1027 @@
+                                                * {
+                                                    padding: 0;
+                                                    margin: 0;
+                                                    border: 0;
+                                                }
+                                                
+                                                *,
+                                                *:before,
+                                                *:after {
+                                                    -moz-box-sizing: border-box;
+                                                    -webkit-box-sizing: border-box;
+                                                    box-sizing: border-box;
+                                                }
+                                                
+                                                 :focus,
+                                                 :active {
+                                                    outline: none;
+                                                }
+                                                
+                                                a:focus,
+                                                a:active {
+                                                    outline: none;
+                                                }
+                                                
+                                                nav,
+                                                footer,
+                                                header,
+                                                aside {
+                                                    display: block;
+                                                }
+                                                
+                                                html,
+                                                body {
+                                                    height: 100%;
+                                                    width: 100%;
+                                                    font-size: 100%;
+                                                    line-height: 1;
+                                                    font-size: 14px;
+                                                    -ms-text-size-adjust: 100%;
+                                                    -moz-text-size-adjust: 100%;
+                                                    -webkit-text-size-adjust: 100%;
+                                                }
+                                                
+                                                input,
+                                                button,
+                                                textarea {
+                                                    font-family: inherit;
+                                                }
+                                                
+                                                input::-ms-clear {
+                                                    display: none;
+                                                }
+                                                
+                                                button {
+                                                    cursor: pointer;
+                                                }
+                                                
+                                                button::-moz-focus-inner {
+                                                    padding: 0;
+                                                    border: 0;
+                                                }
+                                                
+                                                a,
+                                                a:visited {
+                                                    text-decoration: none;
+                                                }
+                                                
+                                                a:hover {
+                                                    text-decoration: none;
+                                                }
+                                                
+                                                ul li {
+                                                    list-style: none;
+                                                }
+                                                
+                                                img {
+                                                    vertical-align: top;
+                                                }
+                                                
+                                                h1,
+                                                h2,
+                                                h3,
+                                                h4,
+                                                h5,
+                                                h6 {
+                                                    font-size: inherit;
+                                                    font-weight: inherit;
+                                                }
+                                                
+                                                body {
+                                                    background: url(../img/big\ tetka) 0 0/100% no-repeat;
+                                                }
+                                                
+                                                .huila_content {
+                                                    height: 53px;
+                                                    left: 1232px;
+                                                    top: 30px;
+                                                    background: #FFFFFF;
+                                                    background: url(../img/чел) right no-repeat;
+                                                }
+                                                
+                                                .wrap {
+                                                    background-color: white;
+                                                }
+                                                
+                                                .wrapper_content {
+                                                    flex: 1 1 auto;
+                                                }
+                                                
+                                                .wrap2 {
+                                                    width: 741px;
+                                                    height: 537px;
+                                                    left: 63px;
+                                                    top: 384px;
+                                                    background: #FFFFFF;
+                                                    box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.1);
+                                                    margin-top: 384px;
+                                                }
+                                                
+                                                .wrap_block2 {
+                                                    margin-top: 94px;
+                                                }
+                                                
+                                                .p1 {
+                                                    font-size: 39px;
+                                                    line-height: 49px;
+                                                }
+                                                
+                                                .p2 {
+                                                    font-size: 39px;
+                                                    line-height: 49px;
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .p3 {
+                                                    font-size: 39px;
+                                                    line-height: 49px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .lol {
+                                                    height: 96px;
+                                                    left: 127px;
+                                                    top: 656px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 20px;
+                                                    line-height: 24px;
+                                                    color: #000000;
+                                                    opacity: 0.6;
+                                                }
+                                                
+                                                .textbutton {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    justify-content: center;
+                                                    align-items: center;
+                                                    padding: 12px 24px 12px 16px;
+                                                    height: 65px;
+                                                    left: 125px;
+                                                    top: 781px;
+                                                    background: #F78065;
+                                                    margin-top: 29px;
+                                                }
+                                                
+                                                .wrap3 {}
+                                                
+                                                .wrap_content3 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block3 {
+                                                    margin-left: 120px;
+                                                }
+                                                
+                                                .wrap_image2 {
+                                                    margin-top: 203px;
+                                                }
+                                                
+                                                .wrap_text {
+                                                    margin-top: 85px;
+                                                    font-family: Merriweather;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                    width: 386px
+                                                }
+                                                
+                                                .wrap_text2 {
+                                                    margin-top: 30px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    opacity: 0.5;
+                                                    width: 386px
+                                                }
+                                                
+                                                .wrap_text3 {
+                                                    margin-top: 30px;
+                                                    color: #F78065;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    width: 386px
+                                                }
+                                                
+                                                .wrap_block4 {
+                                                    margin-left: 40px;
+                                                    margin-top: 203px;
+                                                }
+                                                
+                                                .block_text {
+                                                    margin-top: 84px;
+                                                    width: 386px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .block_text2 {
+                                                    margin-top: 30px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    opacity: 0.5;
+                                                    width: 386px
+                                                }
+                                                
+                                                .block_text3 {
+                                                    margin-top: 30px;
+                                                    width: 386px;
+                                                    color: #F78065;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                }
+                                                
+                                                .wrap_block5 {
+                                                    margin-top: 203px;
+                                                    margin-left: 40px;
+                                                }
+                                                
+                                                .wrap_block_text {
+                                                    margin-top: 84px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                    max-width: 386px
+                                                }
+                                                
+                                                .wrap_block_text2 {
+                                                    margin-top: 30px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    opacity: 0.5;
+                                                    width: 386px
+                                                }
+                                                
+                                                .wrap_block_text3 {
+                                                    margin-top: 30px;
+                                                    width: 386px;
+                                                    color: #F78065;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                }
+                                                
+                                                .wrap5_text {
+                                                    height: 45px;
+                                                    left: 100px;
+                                                    top: 1777px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 36px;
+                                                    line-height: 45px;
+                                                    color: #000000;
+                                                    margin-top: 250px;
+                                                    margin-left: 100px;
+                                                }
+                                                
+                                                .wrap5_title {
+                                                    margin-top: 253px;
+                                                }
+                                                
+                                                .wrap5 {}
+                                                
+                                                .wrap_content5 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block8 {
+                                                    margin-top: 115px;
+                                                    margin-left: 101px;
+                                                }
+                                                
+                                                .wrap_block_text4 {
+                                                    width: 275px;
+                                                    margin-top: 69px;
+                                                    height: 28px;
+                                                    left: 100px;
+                                                    top: 2026px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text5 {
+                                                    margin-top: 30px;
+                                                    width: 275px;
+                                                    height: 48px;
+                                                    left: 421px;
+                                                    top: 2085px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    /* or 171% */
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                }
+                                                
+                                                .wrap_block_text6 {
+                                                    margin-top: 16px;
+                                                    width: 143px;
+                                                    height: 22px;
+                                                    left: 100px;
+                                                    top: 2173px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    /* identical to box height */
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block9 {
+                                                    margin-left: 100px;
+                                                    margin-top: 115px;
+                                                }
+                                                
+                                                .wrap_block_text7 {
+                                                    margin-bottom: 31px;
+                                                    width: 275px;
+                                                    height: 28px;
+                                                    left: 421px;
+                                                    top: 2026px;
+                                                    font-family: Merriweather;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                    margin-top: 66px;
+                                                }
+                                                
+                                                .wrap_block_text8 {
+                                                    width: 275px;
+                                                    height: 48px;
+                                                    left: 421px;
+                                                    top: 2085px;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                    margin-bottom: 30px;
+                                                }
+                                                
+                                                .wrap_block_text9 {
+                                                    width: 143px;
+                                                    height: 22px;
+                                                    left: 421px;
+                                                    top: 2173px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    /* identical to box height */
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block10 {
+                                                    margin-left: 100px;
+                                                    margin-top: 108px;
+                                                }
+                                                
+                                                .wrap_block_text10 {
+                                                    width: 275px;
+                                                    height: 28px;
+                                                    left: 742px;
+                                                    top: 2026px;
+                                                    font-family: Merriweather;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                    margin-top: 66px;
+                                                    margin-bottom: 31px;
+                                                }
+                                                
+                                                .wrap_block_text11 {
+                                                    width: 275px;
+                                                    height: 72px;
+                                                    left: 742px;
+                                                    top: 2085px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    /* or 171% */
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                    margin-bottom: 16px;
+                                                }
+                                                
+                                                .wrap_block_text12 {
+                                                    width: 143px;
+                                                    height: 22px;
+                                                    left: 742px;
+                                                    top: 2173px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    /* identical to box height */
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block11 {
+                                                    margin-left: 100px;
+                                                    margin-top: 108px;
+                                                }
+                                                
+                                                .wrap_block_text13 {
+                                                    width: 275px;
+                                                    height: 28px;
+                                                    left: 1063px;
+                                                    top: 2026px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    color: #000000;
+                                                    margin-bottom: 31px;
+                                                    margin-top: 64px;
+                                                }
+                                                
+                                                .wrap_block_text14 {
+                                                    width: 275px;
+                                                    height: 48px;
+                                                    left: 1063px;
+                                                    top: 2085px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    /* or 171% */
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                    margin-bottom: 40px;
+                                                }
+                                                
+                                                .wrap_block_text15 {
+                                                    width: 143px;
+                                                    height: 22px;
+                                                    left: 1063px;
+                                                    top: 2173px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    /* identical to box height */
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block13 {
+                                                    margin-left: 100px;
+                                                    margin-top: 253px;
+                                                }
+                                                
+                                                .wrap6 {}
+                                                
+                                                .wrap_content6 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block_text16 {
+                                                    color: #000000;
+                                                    width: 325px;
+                                                    height: 171px;
+                                                    left: 100px;
+                                                    top: 2458px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 36px;
+                                                    line-height: 45px;
+                                                }
+                                                
+                                                .wrap_block_text17 {
+                                                    width: 325px;
+                                                    height: 66px;
+                                                    left: 100px;
+                                                    top: 2661px;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                    margin-bottom: 49px;
+                                                }
+                                                
+                                                .textbutton2 {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    justify-content: center;
+                                                    align-items: center;
+                                                    padding: 12px 24px 12px 16px;
+                                                    width: 250px;
+                                                    height: 65px;
+                                                    left: 100px;
+                                                    top: 2775px;
+                                                    background: #F78065;
+                                                }
+                                                
+                                                .textbutton2 {
+                                                    font-size: 18px;
+                                                    line-height: 125%;
+                                                    color: #FFFFFF;
+                                                    flex: none;
+                                                    order: 1;
+                                                    flex-grow: 0;
+                                                    margin: 0px 4px;
+                                                }
+                                                
+                                                .textbutton2_image {
+                                                    background-image: url(../img/Color.png);
+                                                }
+                                                
+                                                .wrap_block_text27 {
+                                                    margin-left: 100px;
+                                                    height: 45px;
+                                                    left: 100px;
+                                                    top: 3220px;
+                                                    font-weight: bold;
+                                                    font-size: 36px;
+                                                    line-height: 45px;
+                                                    color: #000000;
+                                                    margin-top: 380px;
+                                                }
+                                                
+                                                .img {
+                                                    margin-bottom: 64px;
+                                                }
+                                                
+                                                .wrap_block14 {
+                                                    margin-left: 127px;
+                                                    margin-top: 260px;
+                                                }
+                                                
+                                                .wrap_block_text18 {
+                                                    width: 225px;
+                                                    height: 30px;
+                                                    left: 552px;
+                                                    top: 2900px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block19 {
+                                                    margin-left: 40px;
+                                                }
+                                                
+                                                .wrap_block_text19 {
+                                                    width: 43px;
+                                                    height: 17px;
+                                                    left: 552px;
+                                                    top: 2938px;
+                                                }
+                                                
+                                                .wrap_block20 {
+                                                    margin-left: 40px;
+                                                }
+                                                
+                                                .wrap_block_text20 {
+                                                    width: 120px;
+                                                    height: 22px;
+                                                    left: 552px;
+                                                    top: 2966px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block15 {
+                                                    margin-left: 49px;
+                                                    margin-top: 260px;
+                                                }
+                                                
+                                                .wrap_block_text21 {
+                                                    width: 225px;
+                                                    height: 30px;
+                                                    left: 831px;
+                                                    top: 2900px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text22 {
+                                                    color: #3F3D56;
+                                                }
+                                                
+                                                .wrap_block_text23 {
+                                                    width: 120px;
+                                                    height: 22px;
+                                                    left: 831px;
+                                                    top: 2966px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block16 {
+                                                    margin-left: 49px;
+                                                    margin-top: 260px;
+                                                }
+                                                
+                                                .wrap_block_text24 {
+                                                    width: 225px;
+                                                    height: 30px;
+                                                    left: 1110px;
+                                                    top: 2900px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text25 {
+                                                    width: 47px;
+                                                    height: 17px;
+                                                    left: 1110px;
+                                                    top: 2938px;
+                                                }
+                                                
+                                                .wrap_block_text26 {
+                                                    width: 120px;
+                                                    height: 22px;
+                                                    left: 1110px;
+                                                    top: 2966px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 18px;
+                                                    line-height: 22px;
+                                                    color: #F78065;
+                                                }
+                                                
+                                                .wrap_block_text27 {
+                                                    margin-bottom: 108px;
+                                                }
+                                                
+                                                .wrap7 {}
+                                                
+                                                .wrap_content7 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block19 {
+                                                    margin-left: 41px;
+                                                }
+                                                
+                                                .wrap_block20 {
+                                                    margin-left: 41px;
+                                                }
+                                                
+                                                .wrap_block18 {
+                                                    margin-left: 40px;
+                                                }
+                                                
+                                                .wrap_block_text28 {
+                                                    margin-top: 64px;
+                                                    width: 386px;
+                                                    height: 28px;
+                                                    left: 100px;
+                                                    top: 3469px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text29 {
+                                                    margin-top: 52px;
+                                                    width: 386px;
+                                                    height: 96px;
+                                                    left: 100px;
+                                                    top: 3549px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                }
+                                                
+                                                .wrap_block_text30 {
+                                                    margin-top: 64px;
+                                                    width: 386px;
+                                                    height: 56px;
+                                                    left: 527px;
+                                                    top: 3469px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text31 {
+                                                    margin-top: 24px;
+                                                    width: 386px;
+                                                    height: 96px;
+                                                    left: 527px;
+                                                    top: 3549px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                }
+                                                
+                                                .wrap_block_text32 {
+                                                    margin-top: 64px;
+                                                    width: 386px;
+                                                    height: 56px;
+                                                    left: 954px;
+                                                    top: 3469px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 22px;
+                                                    line-height: 28px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text33 {
+                                                    margin-top: 24px;
+                                                    width: 386px;
+                                                    height: 96px;
+                                                    left: 954px;
+                                                    top: 3549px;
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    color: #000000;
+                                                    opacity: 0.5;
+                                                }
+                                                
+                                                .wrap8 {}
+                                                
+                                                .wrap_content_8 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block24 {
+                                                    margin-left: 306px;
+                                                    margin-top: 347px;
+                                                }
+                                                
+                                                .wrap_block22 {
+                                                    margin-top: 347px;
+                                                }
+                                                
+                                                .wrrap_block25 {
+                                                    margin-top: 347px;
+                                                }
+                                                
+                                                .wrap_block26 {
+                                                    margin-top: 347px;
+                                                }
+                                                
+                                                .wrap_block_text34 {
+                                                    width: 155px;
+                                                    height: 30px;
+                                                    left: 103px;
+                                                    top: 3992px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 24px;
+                                                    line-height: 30px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text35 {
+                                                    width: 304px;
+                                                    height: 240px;
+                                                    left: 103px;
+                                                    top: 4038px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 48px;
+                                                    line-height: 60px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text36 {
+                                                    width: 195px;
+                                                    height: 23px;
+                                                    left: 564px;
+                                                    top: 3992px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 23px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text37 {
+                                                    margin-top: 24px;
+                                                    width: 104px;
+                                                    height: 17px;
+                                                    left: 564px;
+                                                    top: 4039px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 14px;
+                                                    line-height: 17px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text38 {
+                                                    margin-top: 24px;
+                                                    width: 87px;
+                                                    height: 17px;
+                                                    left: 564px;
+                                                    top: 4080px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 14px;
+                                                    line-height: 17px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text39 {
+                                                    margin-top: 24px;
+                                                    width: 69px;
+                                                    height: 17px;
+                                                    left: 564px;
+                                                    top: 4121px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 14px;
+                                                    line-height: 17px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text40 {
+                                                    margin-top: 24px;
+                                                    width: 66px;
+                                                    height: 17px;
+                                                    left: 564px;
+                                                    top: 4162px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 14px;
+                                                    line-height: 17px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrrap_block25 {
+                                                    margin-left: 125px;
+                                                }
+                                                
+                                                .wrap_block26 {
+                                                    margin-left: 117px;
+                                                }
+                                                
+                                                .wrap_block_text41 {
+                                                    width: 171px;
+                                                    height: 23px;
+                                                    left: 884px;
+                                                    top: 3992px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 23px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text42 {
+                                                    margin-top: 26px;
+                                                }
+                                                
+                                                .wrap_block_text43 {
+                                                    margin-top: 24px;
+                                                }
+                                                
+                                                .wrap_block_text44 {
+                                                    margin-top: 24px;
+                                                }
+                                                
+                                                .wrap_block_text45 {
+                                                    width: 96px;
+                                                    height: 23px;
+                                                    left: 1172px;
+                                                    top: 3992px;
+                                                    font-style: normal;
+                                                    font-weight: bold;
+                                                    font-size: 18px;
+                                                    line-height: 23px;
+                                                    /* identical to box height */
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block_text46 {
+                                                    margin-top: 26px;
+                                                }
+                                                
+                                                .wrap_block_text47 {
+                                                    margin-top: 24px;
+                                                }
+                                                
+                                                .wrap_block_text48 {
+                                                    margin-top: 24px;
+                                                }
+                                                
+                                                .wrap_block_text49 {
+                                                    margin-top: 24px;
+                                                }
+                                                
+                                                .wrap9 {
+                                                    margin-top: 113px;
+                                                }
+                                                
+                                                .wrap_content_9 {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                }
+                                                
+                                                .wrap_block28 {
+                                                    margin-left: 100px;
+                                                }
+                                                
+                                                .wrap_block_text49 {
+                                                    width: 225px;
+                                                    height: 17px;
+                                                    left: 100px;
+                                                    top: 4391px;
+                                                    font-family: Montserrat;
+                                                    font-style: normal;
+                                                    font-weight: normal;
+                                                    font-size: 14px;
+                                                    line-height: 17px;
+                                                    color: #000000;
+                                                }
+                                                
+                                                .wrap_block29 {
+                                                    margin-left: 530px;
+                                                }
+                                                
+                                                .wrap_block30 {
+                                                    margin-left: 47px;
+                                                }
+                                                
+                                                .wrap_block31 {
+                                                    margin-left: 47px;
+                                                }
+                                                
+                                                .wrap_block32 {
+                                                    margin-left: 47px;
+                                                }
+                                                
+                                                .wrap_block33 {
+                                                    margin-left: 47px;
+                                                }
